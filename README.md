@@ -1,11 +1,11 @@
-About r-clisymbols
-==================
+About r-clisymbols-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-clisymbols-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/gaborcsardi/clisymbols
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-clisymbols-feedstock/blob/main/LICENSE.txt)
 
 Summary: A small subset of Unicode symbols, that are useful when building command line applications. They fall back to alternatives on terminals that do not support Unicode. Many symbols were taken from the 'figures' 'npm' package (see <https://github.com/sindresorhus/figures>).
 
